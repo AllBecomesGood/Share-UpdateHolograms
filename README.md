@@ -9,9 +9,7 @@ How to use
 Example Scene:
 Share-UpdateHolograms/ShareAndKeepSynced/Assets/Scenes/SharedAndUpdatingExampleScene.unity
 
-You need these two scripts:
-Share-UpdateHolograms/ShareAndKeepSynced/Assets/HoloToolKit/Sharing/Tests/Scripts/SyncManager.cs
-Share-UpdateHolograms/ShareAndKeepSynced/Assets/HoloToolKit/Sharing/Tests/Scripts/SyncMessaging.cs
+You need these two scripts: SyncManager.cs and SyncMessaging.cs which are located under: Share-UpdateHolograms/ShareAndKeepSynced/Assets/HoloToolKit/Sharing/Tests/Scripts/
 
 Set up sharing as usual, replace RemoteHeadManager.cs and CustomMessages.cs with the two scripts above. You have to manually add objects you want to keep synched to the public List part of SyncManager.cs
 
