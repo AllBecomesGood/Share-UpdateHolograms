@@ -12,16 +12,16 @@ EditorBuildSettings:
     path: Assets/MRDL_ControlsExample/Scenes/InteractableObject_Examples.unity
     guid: 8cfa0f215112b1d4195c3dd630a98ece
   - enabled: 0
-    path: Assets/MRDL_ControlsExample/Scenes/ManipulationGizmo_Examples.unity
+    path: 
     guid: 6f0042eb779318b4e95ee3595e35a6d2
   - enabled: 0
-    path: Assets/Scenes/Demon24July.unity
+    path: 
     guid: 277b27cda260b3d47af6596c8dd5cc22
   - enabled: 0
-    path: Assets/Scenes/1.unity
+    path: 
     guid: 092d18a035d15b349bd63f215460f447
   - enabled: 0
-    path: Assets/Scenes/MultiObjShareSimpleDrilling.unity
+    path: 
     guid: a858a367305bfba4e9a96e5353c89870
   - enabled: 1
     path: Assets/Scenes/SharedAndUpdatingExampleScene.unity
