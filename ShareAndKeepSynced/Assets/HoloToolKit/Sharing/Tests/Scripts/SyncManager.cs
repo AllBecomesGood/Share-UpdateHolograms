@@ -19,11 +19,6 @@ namespace HoloToolkit.Sharing.Tests
         // List in which we have to manually (in Unity) put all objects that we want to keep synced.
         public List<GameObject> listOfGameObjToKeepSynced = new List<GameObject>();
 
-        /// <summary>
-        /// Debug Text to show info
-        /// </summary>
-        public TextMesh AnchorDebugText;
-
         public class RemoteHeadInfo
         {
             public long UserID;
