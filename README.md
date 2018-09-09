@@ -49,13 +49,13 @@ asterix\*
 \{}brackets
 
 Task List:
-- [] incomplete item
+- [ ] incomplete item
 - [x] complete item
 - [x] @mentions, #refs, [links](),
 **formatting**, and <del>tags</del>
 supported
 
-Fenced code blok and syntax highlighting:
+Fenced code block and syntax highlighting:
 ```javascript
 function test() {
   console.log("look ma`, no spaces");
@@ -63,10 +63,16 @@ function test() {
 ```
 
 Tables:
+
 First Header | Second Header
 ------------ | -------------
 Content Cell 1 | Content cell 2
 col 1 | col 2
+
+| 1st Header | 2nd Header |
+| ---------- | ---------- |
+| cell | cell |
+| more cell | and another cell|
 
 Emojis:
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
