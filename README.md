@@ -23,3 +23,52 @@ Set up sharing as usual, replace RemoteHeadManager.cs and CustomMessages.cs with
 ## h2tag
 ###### h6tag
 
+*italic*
+_italic_
+**bold**
+**bold _italic_**
+
+* item1
+* item2
+  * item2a
+  
+1. item1
+2. item2
+  * item 2a
+  
+![Github Logo](/images/logo.png)
+
+Format: ![Alt Text](url)
+
+As face-paint-kid said:
+> I like turtles!
+
+Backslash escapes:
+asterix\*
+\\backslash
+\{}brackets
+
+Task List:
+- [] incomplete item
+- [x] complete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+
+Fenced code blok and syntax highlighting:
+```javascript
+function test() {
+  console.log("look ma`, no spaces");
+  }
+```
+
+Tables:
+First Header | Second Header
+------------ | -------------
+Content Cell 1 | Content cell 2
+col 1 | col 2
+
+Emojis:
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+
+
