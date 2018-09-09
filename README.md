@@ -13,3 +13,13 @@ You need these two scripts: SyncManager.cs and SyncMessaging.cs which are locate
 
 Set up sharing as usual, replace RemoteHeadManager.cs and CustomMessages.cs with the two scripts above. You have to manually add objects you want to keep synched to the public List part of SyncManager.cs
 
+
+
+
+
+==============
+
+# h1tag
+## h2tag
+###### h6tag
+
